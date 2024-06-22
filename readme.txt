@@ -1,0 +1,2 @@
+see instructions at https://docs.google.com/presentation/d/1wk18cGGvQhjvyUwHemH-k3XST-_Wtr3dvAHzFKiI1jY/edit#slide=id.g2e779cd7348_0_19 to create an AI API app to querey databases
+create a .env file with OpenAI_API_KEY = KEY
